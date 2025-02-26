@@ -1,5 +1,4 @@
-#!/usr/bin/env python
-
+# !/usr/bin/env python
 
 def concat_strings(a, b):
     """
@@ -8,5 +7,8 @@ def concat_strings(a, b):
     return a + b
 
 def test_concat_strings():
+    """
+    Test the concat_strings function
+    """
     assert concat_strings('hello', 'world') == 'helloworld'
     assert concat_strings('hello', 'world') == 'hello world'
