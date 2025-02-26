@@ -1,7 +1,10 @@
-import pandas as pd
+#!/usr/bin/env python
 
 
 def concat_strings(a, b):
+    """
+    Concatenate two strings
+    """
     return a + b
 
 
