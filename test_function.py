@@ -1,4 +1,6 @@
-# !/usr/bin/env python
+#!/usr/bin/python3
+
+"""Module providing a function printing python version."""
 
 def concat_strings(a, b):
     """
