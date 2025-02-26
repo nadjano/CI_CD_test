@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+import pandas as pd
 
 """Module providing a function printing python version."""
 
